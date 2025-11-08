@@ -1,0 +1,15 @@
+# AutoDE Bot Dependencies
+# Python 3.8+
+
+# HTTP Requests
+requests>=2.31.0
+
+# Database
+# SQLite3 is included in Python standard library
+
+# Additional Security (optional but recommended)
+urllib3>=2.0.0
+certifi>=2023.0.0
+
+# For future enhancements
+python-dotenv>=1.0.0
